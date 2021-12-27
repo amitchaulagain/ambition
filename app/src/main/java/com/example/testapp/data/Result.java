@@ -20,7 +20,8 @@ public class Result<T> {
         return "";
     }
 
-    // Success sub-class
+    // Success sub-classes
+
     public final static class Success<T> extends Result {
         private T data;
 
@@ -44,5 +45,9 @@ public class Result<T> {
         public Exception getError() {
             return this.error;
         }
+    }
+
+    public void testFeature(){
+        System.out.printf("tsting");
     }
 }
