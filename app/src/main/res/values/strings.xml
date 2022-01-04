@@ -9,4 +9,20 @@
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
+    <string name="title">"Student Form"</string>
+
+    <string name="current_weight">"your weight"</string>
+    <string name="height">"your height"</string>
+    <string name="goal_weight">"goal weight"</string>
+    <string name="phone">"phone number"</string>
+    <string name="address">"address"</string>
+    <string name="conditions">"terms and conditions"</string>
+    <string name="submit">"Submit"</string>
+
+
+
+
+
+
+
 </resources>
